@@ -1,0 +1,8 @@
+{
+    "title"    :    "Sample json file title",
+    "url"    :    "https://gooddata.com",
+    "posts"    :    {
+                    "1":"first entry",
+                      "2":"second entry"
+                  }
+}
